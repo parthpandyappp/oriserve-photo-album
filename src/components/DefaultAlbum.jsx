@@ -1,6 +1,6 @@
 import axios from "axios";
 import { useEffect, useState } from "react";
-import PhotoModal from "./PhotoModal";
+import { PhotoModal } from "./PhotoModal";
 
 const DefaultAlbum = () => {
   const [pics, setPics] = useState([]);

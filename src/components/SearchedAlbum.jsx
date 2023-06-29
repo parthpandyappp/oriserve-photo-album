@@ -1,5 +1,5 @@
 import { useState } from "react";
-import PhotoModal from "./PhotoModal";
+import { PhotoModal } from "./PhotoModal";
 
 const SearchedAlbum = ({ pics }) => {
   const [selectedImage, setSelectedImage] = useState(null);
