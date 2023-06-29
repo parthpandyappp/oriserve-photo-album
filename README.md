@@ -4,4 +4,9 @@ A photo album application built upon ReactJs with infinite scroll, throttling, a
 ### Features of the application
 - Get images from Flickr
 - Infinite scrolling in both, Default & Search view
-- Click on the image to open it on modal.
+- Click on the image to open it on the modal.
+
+### What's special?
+- Scalable folder structure.
+- Use of barrels export to enhance modularity.
+- Proper segregation of components and pages.
