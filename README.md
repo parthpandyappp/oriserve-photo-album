@@ -11,4 +11,4 @@ A photo album application built upon ReactJs with infinite scroll, throttling, a
 - Use of barrels export to enhance modularity.
 - Proper segregation of components and pages.
 
-#### note: unsafe images may show up, even after using safe_search in query params flickr returns unsafe images as they're not been flagged unsafe by Flickr. Please keep a note of it.
+#### note: unsafe images may show up, even after using safe_search=1 in query params flickr returns unsafe images as they're not been flagged unsafe by Flickr. Please keep a note of it.
