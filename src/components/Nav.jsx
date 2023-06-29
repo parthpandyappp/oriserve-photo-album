@@ -26,7 +26,7 @@ const Nav = () => {
       </div>
       <div>
         <a
-          href="https://github.com/parthpandyappp"
+          href="https://github.com/parthpandyappp/oriserve-photo-album/"
           className="underline text-lg"
         >
           GitHub
